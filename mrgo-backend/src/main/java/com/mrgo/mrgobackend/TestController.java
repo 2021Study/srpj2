@@ -1,4 +1,4 @@
-package com.mrgo;
+package com.mrgo.mrgobackend;
 
 import javax.servlet.http.HttpServletRequest;
 import org.springframework.http.ResponseEntity;
@@ -9,12 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/api")
 public class TestController {
-	
-	@PostMapping("/ip")
-	public ResponseEntity<String> ip (HttpServletRequest request) {
-		// 요청을 보낸 클라이언트의 IP주소를 반환합니다.
-		String ip = request.getHeader("X-Forwarded-For");
-	    if (ip == null) ip = request.getRemoteAddr();
-		return ResponseEntity.ok(ip);
-	}
+
+    @PostMapping("/ip")
+    public ResponseEntity<String> ip (HttpServletRequest request) {
+        // 요청을 보낸 클라이언트의 IP주소를 반환합니다.
+        return ResponseEntity.ok(request.getRemoteAddr());
+    }
 }
