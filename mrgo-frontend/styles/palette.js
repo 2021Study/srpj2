@@ -1,0 +1,25 @@
+export default {
+  base: {
+    white: '#ffffff',
+    gray100: '#f7f7f7',
+    gray150: '#f2f2f2',
+    gray200: '#efefef',
+    gray250: '#e8e8e8',
+    gray300: '#e0e0e0',
+    gray350: '#c7c7c7',
+    gray400: '#aeaeae',
+    gray500: '#959595',
+    gray600: '#7c7c7c',
+    gray700: '#646464',
+    gray800: '#4a4a4a',
+    gray900: '#232323',
+    black: '#181818',
+  },
+  primary: {
+    red: '#dc3545',
+    yellow: '#ffc107',
+    blue: '#3478ff',
+    more_blue: '#2656f5',
+    purple: '#9966FF',
+  },
+};
