@@ -1,11 +1,11 @@
 import React from 'react';
 import ResponsivePageTemplate from '../layout/ResponsivePageTemplate';
-import Management from '../../components/product/Management';
+import ManagementTabs from '../../components/product/ManagementTabs';
 
 const ManagementContainer = () => {
   return (
     <ResponsivePageTemplate isFullInner>
-      <Management />
+      <ManagementTabs />
     </ResponsivePageTemplate>
   );
 };

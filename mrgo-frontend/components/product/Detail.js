@@ -8,7 +8,7 @@ import MinusImage from '../../static/assets/icon_minus.svg';
 import PlusImage from '../../static/assets/icon_plus.svg';
 import NotFoundImage from '../../static/assets/icon_not_found.svg';
 
-import { productDetailList } from '../../util/constant/list';
+import { ProductDetailList } from '../../util/constant/list';
 
 const useTabs = (initialTabs, allTabs) => {
   const [contentIndex, setContentIndex] = useState(initialTabs);
@@ -21,7 +21,7 @@ const useTabs = (initialTabs, allTabs) => {
 const Detail = () => {
   const nextRouter = useRouter();
   const [number, setNumber] = useState(0);
-  const { contentItem, contentChange } = useTabs(0, productDetailList);
+  const { contentItem, contentChange } = useTabs(0, ProductDetailList);
 
   return (
     <Container>
@@ -71,7 +71,7 @@ const Detail = () => {
         </ProductListBlock>
         <TabsContainer>
           <TabsWrapper>
-            {productDetailList.map((item, i) => (
+            {ProductDetailList.map((item, i) => (
               <Tabs
                 key={`productDetailList${i.toString()}`}
                 onClick={() => contentChange(i)}
