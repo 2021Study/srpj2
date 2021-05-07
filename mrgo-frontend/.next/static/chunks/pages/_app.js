@@ -10,7 +10,11 @@ _N_E =
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+<<<<<<< HEAD
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral */ "./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js");
+=======
+/* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral */ "./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js");
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
@@ -25,12 +29,20 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+<<<<<<< HEAD
 var _jsxFileName = "C:\\srpj2\\srpj2\\mrgo-frontend\\components\\Header.js",
+=======
+var _jsxFileName = "C:\\WorkSpace\\srpj3\\srpj2\\mrgo-frontend\\components\\Header.js",
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
     _this = undefined,
     _s = $RefreshSig$();
 
 function _templateObject5() {
+<<<<<<< HEAD
   var data = Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  margin-right: 30px;\n  display: inline-block;\n  white-space: nowrap;\n  cursor: pointer;\n  font-size: 16px;\n  line-height: 24px;\n  letter-spacing: -0.45px;\n\n  transition: opacity 200ms cubic-bezier(0.65, 0, 0.35, 1);\n\n  opacity: ", ";\n"]);
+=======
+  var data = Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  margin-right: 30px;\n  display: inline-block;\n  white-space: nowrap;\n  cursor: pointer;\n  font-size: 16px;\n  line-height: 24px;\n  letter-spacing: -0.45px;\n\n  transition: opacity 200ms cubic-bezier(0.65, 0, 0.35, 1);\n\n  opacity: ", ";\n"]);
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
   _templateObject5 = function _templateObject5() {
     return data;
@@ -40,7 +52,11 @@ function _templateObject5() {
 }
 
 function _templateObject4() {
+<<<<<<< HEAD
   var data = Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])([""]);
+=======
+  var data = Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])([""]);
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
   _templateObject4 = function _templateObject4() {
     return data;
@@ -50,7 +66,11 @@ function _templateObject4() {
 }
 
 function _templateObject3() {
+<<<<<<< HEAD
   var data = Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 100%;\n  max-width: 80px;\n  cursor: pointer;\n\n  font-size: 20px;\n  font-weight: bold;\n\n  margin-right: 26px;\n\n  flex: 1;\n"]);
+=======
+  var data = Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 100%;\n  max-width: 80px;\n  cursor: pointer;\n\n  font-size: 20px;\n  font-weight: bold;\n\n  margin-right: 26px;\n\n  flex: 1;\n"]);
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
   _templateObject3 = function _templateObject3() {
     return data;
@@ -60,7 +80,11 @@ function _templateObject3() {
 }
 
 function _templateObject2() {
+<<<<<<< HEAD
   var data = Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  width: 100%;\n  max-width: 1052px;\n  height: ", "px;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n"]);
+=======
+  var data = Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  width: 100%;\n  max-width: 1052px;\n  height: ", "px;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n"]);
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
   _templateObject2 = function _templateObject2() {
     return data;
@@ -70,7 +94,11 @@ function _templateObject2() {
 }
 
 function _templateObject() {
+<<<<<<< HEAD
   var data = Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  width: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n\n  margin: auto;\n  position: fixed;\n  top: 0;\n  left: 0;\n  z-index: 20;\n  background-color: white;\n\n  border-bottom: 1px solid ", ";\n"]);
+=======
+  var data = Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  width: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n\n  margin: auto;\n  position: fixed;\n  top: 0;\n  left: 0;\n  z-index: 20;\n  background-color: white;\n\n  border-bottom: 1px solid ", ";\n"]);
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
   _templateObject = function _templateObject() {
     return data;
@@ -264,7 +292,11 @@ $RefreshReg$(_c6, "NavChip");
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+<<<<<<< HEAD
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral */ "./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js");
+=======
+/* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral */ "./node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js");
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
@@ -278,11 +310,19 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+<<<<<<< HEAD
 var _jsxFileName = "C:\\srpj2\\srpj2\\mrgo-frontend\\containers\\layout\\LayoutContainer.js",
     _this = undefined;
 
 function _templateObject() {
   var data = Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  display: flex;\n  height: 100%;\n  min-height: calc(100% - 261px);\n  margin: 0 auto;\n  padding-top: 60px;\n\n  & > main,\n  & > div {\n    width: 100%;\n  }\n"]);
+=======
+var _jsxFileName = "C:\\WorkSpace\\srpj3\\srpj2\\mrgo-frontend\\containers\\layout\\LayoutContainer.js",
+    _this = undefined;
+
+function _templateObject() {
+  var data = Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  display: flex;\n  height: 100%;\n  min-height: calc(100% - 261px);\n  margin: 0 auto;\n  padding-top: 60px;\n\n  & > main,\n  & > div {\n    width: 100%;\n  }\n"]);
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
   _templateObject = function _templateObject() {
     return data;
@@ -12956,7 +12996,11 @@ if (false) {} else {
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+<<<<<<< HEAD
 /* harmony import */ var C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/defineProperty */ "./node_modules/@babel/runtime/helpers/esm/defineProperty.js");
+=======
+/* harmony import */ var C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/defineProperty */ "./node_modules/@babel/runtime/helpers/esm/defineProperty.js");
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/router */ "./node_modules/next/router.js");
@@ -12973,13 +13017,21 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+<<<<<<< HEAD
 var _jsxFileName = "C:\\srpj2\\srpj2\\mrgo-frontend\\pages\\_app.js",
+=======
+var _jsxFileName = "C:\\WorkSpace\\srpj3\\srpj2\\mrgo-frontend\\pages\\_app.js",
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
     _this = undefined,
     _s = $RefreshSig$();
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
+<<<<<<< HEAD
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { Object(C_srpj2_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__["default"])(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+=======
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { Object(C_WorkSpace_srpj3_srpj2_mrgo_frontend_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__["default"])(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
 
 
@@ -13293,7 +13345,11 @@ var MOBILE_SIZE = 768;
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./");
+<<<<<<< HEAD
 module.exports = __webpack_require__(/*! C:\srpj2\srpj2\mrgo-frontend\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+=======
+module.exports = __webpack_require__(/*! C:\WorkSpace\srpj3\srpj2\mrgo-frontend\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
 
 /***/ })

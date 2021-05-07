@@ -1,5 +1,11 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
+<<<<<<< HEAD
   "/_error": "pages/_error.js"
+=======
+  "/_error": "pages/_error.js",
+  "/auth/signup": "pages/auth/signup.js",
+  "/": "pages/index.js"
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 }

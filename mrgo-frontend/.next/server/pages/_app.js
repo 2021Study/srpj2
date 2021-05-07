@@ -150,7 +150,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _util_constant_styles__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../util/constant/styles */ "./util/constant/styles.js");
 /* harmony import */ var _styles_palette__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../styles/palette */ "./styles/palette.js");
 
+<<<<<<< HEAD
 var _jsxFileName = "C:\\srpj2\\srpj2\\mrgo-frontend\\components\\Header.js";
+=======
+var _jsxFileName = "C:\\WorkSpace\\srpj3\\srpj2\\mrgo-frontend\\components\\Header.js";
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
 
 
@@ -319,7 +323,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_4__);
 
 
+<<<<<<< HEAD
 var _jsxFileName = "C:\\srpj2\\srpj2\\mrgo-frontend\\containers\\layout\\LayoutContainer.js";
+=======
+var _jsxFileName = "C:\\WorkSpace\\srpj3\\srpj2\\mrgo-frontend\\containers\\layout\\LayoutContainer.js";
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
 
 
@@ -3253,7 +3261,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _containers_layout_LayoutContainer__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../containers/layout/LayoutContainer */ "./containers/layout/LayoutContainer.js");
 
 
+<<<<<<< HEAD
 var _jsxFileName = "C:\\srpj2\\srpj2\\mrgo-frontend\\pages\\_app.js";
+=======
+var _jsxFileName = "C:\\WorkSpace\\srpj3\\srpj2\\mrgo-frontend\\pages\\_app.js";
+>>>>>>> a06ef14d011fcf9ed3450f414b7f1f0b9ef30fb7
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
